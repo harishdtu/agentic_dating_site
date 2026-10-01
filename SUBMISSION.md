@@ -4,9 +4,9 @@ Project: AgentDate
 
 YouTube URL: [TO BE FILLED AFTER RECORDING]
 
-GitHub: https://github.com/harishdtu/agentic_dating_site (provided target; push not yet verified)
+GitHub: https://github.com/harishdtu/agentic_dating_site
 
-Live URL: Not deployed (Vercel CLI/authentication unavailable)
+Live URL: https://agenticdatingsite.vercel.app
 
 Dataset: 7 verified public people
 

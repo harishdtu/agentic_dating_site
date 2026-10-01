@@ -12,3 +12,4 @@ apify-exports/
 data/apify-cache/
 npm-debug.log*
 *.tsbuildinfo
+.vercel
