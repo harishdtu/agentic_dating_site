@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.env.local
+.apify/
+apify-exports/
+data/apify-cache/
+npm-debug.log*
+*.tsbuildinfo

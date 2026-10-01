@@ -1,0 +1,267 @@
+[
+  {
+    "id": "person-001",
+    "name": "Suhas Khot",
+    "headline": "Software Engineer @Google",
+    "linkedinUrl": "https://www.linkedin.com/in/suhas-khot-6530091b4",
+    "instagramUrl": "https://www.instagram.com/debugggging_life/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Suhas Khot. Software Engineer @Google. Software Engineer III. Google",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "QQDB62SHPlHF5i1r5",
+        "datasetId": "TpNX5Rsnsl7thuPqc"
+      },
+      "instagram": {
+        "text": "Suhas Khot. Software Engineer @Google Tech & AI | Travel | Life 📩DM/ for collaborations Schedule 1:1 Session⬇️. https://www.linkedin.com/in/suhas-khot-6530091b4",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "HMmzMM4r5H6lt4fxR",
+        "datasetId": "IB6NPF4FspvUB9yBQ"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link",
+        "company"
+      ],
+      "linkedinEvidence": [
+        "Suhas Khot",
+        "Google"
+      ],
+      "instagramEvidence": [
+        "Suhas Khot",
+        "https://www.linkedin.com/in/suhas-khot-6530091b4",
+        "Google"
+      ]
+    }
+  },
+  {
+    "id": "person-002",
+    "name": "Apporva Arya",
+    "headline": "Senior Frontend AI engineer @NTT Data - Ex Bounteous x Accolite | Ex - Amdocs | Angular, Typescript, Node js, AI | GEN AI | AI Automation",
+    "linkedinUrl": "https://www.linkedin.com/in/apporva-arya",
+    "instagramUrl": "https://www.instagram.com/apporva_aryaa/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Apporva Arya. Senior Frontend AI engineer @NTT Data - Ex Bounteous x Accolite | Ex - Amdocs | Angular, Typescript, Node js, AI | GEN AI | AI Automation. Senior Software Engineer. Accolite. Angular. TypeScript. Node.js. Mean Stack",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "KEEQAY9oR6fkShZ30",
+        "datasetId": "BF1G6x14KJhiZE1xt"
+      },
+      "instagram": {
+        "text": "Apporva Arya. 💼 Software Developer & Vlogger 🎧 Everyday life in stories, feed 🧠 I will help you excel in Tech & Life 📽️ Watch My Videos 👇. Personal blog. https://www.linkedin.com/in/apporva-arya",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "IYudW1eid1lVUMfRH",
+        "datasetId": "Bk9GW56yzTLX0izeL"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link"
+      ],
+      "linkedinEvidence": [
+        "Apporva Arya"
+      ],
+      "instagramEvidence": [
+        "Apporva Arya",
+        "https://www.linkedin.com/in/apporva-arya"
+      ]
+    }
+  },
+  {
+    "id": "person-003",
+    "name": "Haymkarran S Bhalla",
+    "headline": "I help businesses grow with design | Harvard | IIM-A | DM me for growth tips in UX | Connect with me - 1:1 mentorship slots are now open.",
+    "linkedinUrl": "https://www.linkedin.com/in/haymkarran",
+    "instagramUrl": "https://www.instagram.com/haymkarran/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Haymkarran S Bhalla. I help businesses grow with design | Harvard | IIM-A | DM me for growth tips in UX | Connect with me - 1:1 mentorship slots are now open.. Growing Khazna - A G42 Company. Khazna Data Centers",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "KEEQAY9oR6fkShZ30",
+        "datasetId": "BF1G6x14KJhiZE1xt"
+      },
+      "instagram": {
+        "text": "Haymkarran S Bhalla. Design. Travel. Food. Harvard Business School. IIM A. Founder- @sangatapp @growwithdesign_official. https://www.linkedin.com/in/haymkarran",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "IYudW1eid1lVUMfRH",
+        "datasetId": "Bk9GW56yzTLX0izeL"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link"
+      ],
+      "linkedinEvidence": [
+        "Haymkarran S Bhalla"
+      ],
+      "instagramEvidence": [
+        "Haymkarran S Bhalla",
+        "https://www.linkedin.com/in/haymkarran"
+      ]
+    }
+  },
+  {
+    "id": "person-004",
+    "name": "Alok Patnia",
+    "headline": "Founder@TMG Group(🇮🇳 🇺🇸 🇬🇧 🇸🇬 🇦🇪) Empowering founders to build and scale global businesses I India ⇄US ⇄ UK ⇄ Singapore ⇄UAE I Cross-Border Tax & Legal Architecture Structuring I Backing Founders@ProfitboardVC",
+    "linkedinUrl": "https://www.linkedin.com/in/alokpatnia",
+    "instagramUrl": "https://www.instagram.com/alokpatnia_taxmantraglobal/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Alok Patnia. Founder@TMG Group(🇮🇳 🇺🇸 🇬🇧 🇸🇬 🇦🇪) Empowering founders to build and scale global businesses I India ⇄US ⇄ UK ⇄ Singapore ⇄UAE I Cross-Border Tax & Legal Architecture Structuring I Backing Founders@ProfitboardVC. Founder and Managing Partner. TMG. (Taxmantra Global). Transfer Pricing. Start-ups. Venture Capital. Start-up Ventures",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "KEEQAY9oR6fkShZ30",
+        "datasetId": "BF1G6x14KJhiZE1xt"
+      },
+      "instagram": {
+        "text": "Alok Patnia. 💡23+ years - Global Business Consultant 💬 Productivity | Finance | Fundraising | Entrepreneurship | Startups. https://www.linkedin.com/in/alokpatnia",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "IYudW1eid1lVUMfRH",
+        "datasetId": "Bk9GW56yzTLX0izeL"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link"
+      ],
+      "linkedinEvidence": [
+        "Alok Patnia"
+      ],
+      "instagramEvidence": [
+        "Alok Patnia",
+        "https://www.linkedin.com/in/alokpatnia"
+      ]
+    }
+  },
+  {
+    "id": "person-005",
+    "name": "Vindhya Shanmugam",
+    "headline": "Sr Director of Engineering - Cx Growth, Search & Payments @Myntra",
+    "linkedinUrl": "https://www.linkedin.com/in/vindhya-shanmugam-5951a513",
+    "instagramUrl": "https://www.instagram.com/vindhyashanmugam/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Vindhya Shanmugam. Sr Director of Engineering - Cx Growth, Search & Payments @Myntra. Senior Director. Myntra",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "KEEQAY9oR6fkShZ30",
+        "datasetId": "BF1G6x14KJhiZE1xt"
+      },
+      "instagram": {
+        "text": "Vindhya Shanmugam. Sr Director of Engineering, Myntra Designs Pvt Ltd. https://www.linkedin.com/in/vindhya-shanmugam-5951a513",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "IYudW1eid1lVUMfRH",
+        "datasetId": "Bk9GW56yzTLX0izeL"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link",
+        "company"
+      ],
+      "linkedinEvidence": [
+        "Vindhya Shanmugam",
+        "Myntra"
+      ],
+      "instagramEvidence": [
+        "Vindhya Shanmugam",
+        "https://www.linkedin.com/in/vindhya-shanmugam-5951a513",
+        "Myntra"
+      ]
+    }
+  },
+  {
+    "id": "person-006",
+    "name": "Devyansh Agrawal",
+    "headline": "Founder & CEO @ Devananta R&D | Building India’s Rare-Earth-Free Next-Gen Energy Storage | BRICS 2026 Delegate | Ex-Mercedes-Benz R&D | ISRO Researcher | Govt. of India YLD",
+    "linkedinUrl": "https://www.linkedin.com/in/devyansh-agrawal",
+    "instagramUrl": "https://www.instagram.com/devyansh_agrawal_/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Devyansh Agrawal. Founder & CEO @ Devananta R&D | Building India’s Rare-Earth-Free Next-Gen Energy Storage | BRICS 2026 Delegate | Ex-Mercedes-Benz R&D | ISRO Researcher | Govt. of India YLD. Founder - CEO. Devananta R&D",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "KEEQAY9oR6fkShZ30",
+        "datasetId": "BF1G6x14KJhiZE1xt"
+      },
+      "instagram": {
+        "text": "Devyansh Agrawal. https://www.linkedin.com/in/devyansh-agrawal",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "IYudW1eid1lVUMfRH",
+        "datasetId": "Bk9GW56yzTLX0izeL"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link"
+      ],
+      "linkedinEvidence": [
+        "Devyansh Agrawal"
+      ],
+      "instagramEvidence": [
+        "Devyansh Agrawal",
+        "https://www.linkedin.com/in/devyansh-agrawal"
+      ]
+    }
+  },
+  {
+    "id": "person-007",
+    "name": "Alumni Cell NIT Delhi",
+    "headline": "Alumni Cell || International Affairs & Outreach || National Institute of Technology Delhi ||",
+    "linkedinUrl": "https://www.linkedin.com/in/alumni-cell-nit-delhi-4978b0256",
+    "instagramUrl": "https://www.instagram.com/alumni_cell_nitdelhi/",
+    "verified": true,
+    "sourceData": {
+      "linkedin": {
+        "text": "Alumni Cell NIT Delhi. Alumni Cell || International Affairs & Outreach || National Institute of Technology Delhi ||. Alumni Cell (International Affairs & Outreach). National Institute of Technology Delhi",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "e9FuOV2zzkD2ADgjg",
+        "datasetId": "125RiHrjaQv1Rt13u"
+      },
+      "instagram": {
+        "text": "Alumni Cell NIT Delhi. Alumni Cell, NIT Delhi | Official Building lifelong bonds. https://www.linkedin.com/in/alumni-cell-nit-delhi-4978b0256",
+        "verified": true,
+        "retrievedVia": "apify",
+        "actorRunId": "Qm885azP7m5atFTLW",
+        "datasetId": "9hmHikmQcA3y3guEv"
+      }
+    },
+    "identityVerification": {
+      "matchedOn": [
+        "name",
+        "cross-link"
+      ],
+      "linkedinEvidence": [
+        "Alumni Cell NIT Delhi"
+      ],
+      "instagramEvidence": [
+        "Alumni Cell NIT Delhi",
+        "https://www.linkedin.com/in/alumni-cell-nit-delhi-4978b0256"
+      ]
+    }
+  }
+]
